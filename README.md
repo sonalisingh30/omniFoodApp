@@ -13,7 +13,7 @@ Food ordering app showcasing my skills in HTML, CSS, and JavaScript for animatio
 Javascript, HTML, CSs
 
 ## Demo
-[Click Here to view the demo](https://zippy-hamster-dbabc9.netlify.app/)
+[Click Here to view the demo]( https://sonalisingh30.github.io/omniFoodApp/)
 
 
 
